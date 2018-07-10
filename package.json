@@ -5,11 +5,11 @@
   "description": "",
   "main": "lib/index.js",
   "dependencies": {
-    "@slothking-online/node": "^1.0.18",
+    "@slothking-online/node": "^1.1.0",
     "micro": "^9.3.1",
+    "mongoose": "^5.1.7",
     "node-fetch": "^2.1.2",
     "query-string": "^6.1.0",
-    "mongoose": "^5.1.7",
     "reflect-metadata": "^0.1.12",
     "typegoose": "^5.2.1"
   },
